@@ -12,12 +12,12 @@ If you have any doubts, please contact the admin. 👉 @Shitijbro to @Shitij_Con
 Whatever serial and movie 🍿 you want, just ask me and I will send it to you..
 
 If you have any doubts, please contact the admin. 👉 @Shitijbro to @Shitij_Contact_bot Admin Chat bot👈 
-❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Trexowner">Trex</a></blockquote></b>"""
+❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Anujith1238">Anujith</a></blockquote></b>"""
     
     HELP_TXT = """» ᴡʜᴇʀᴇ ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴏᴘᴇɴ ᴛʜᴇ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ?."""
 
     ABOUT_TXT = """<blockquote><b>❍ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/ShitijSearchbot">ShitijSearchbot Bot</a>
-❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/Anujith1238">Anujith</a>
+❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/Shitijbro">Shitijbro</a>
 ❍ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 ❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
 ❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
