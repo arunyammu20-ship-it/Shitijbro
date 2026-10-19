@@ -5,14 +5,14 @@ Whatever serial and movie 🍿 you want, just ask me and I will send it to you..
 
 If you have any doubts, please contact the admin. 👉 @Shitijbro to @Shitij_Contact_bot Admin Chat bot👈
 
-❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Anujith1238">Anujith</a></blockquote></b>"""
+❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Shitijbro">Shitijbro</a></blockquote></b>"""
 
     GSTART_TXT = """<b>ʜᴇʏ {}, {}\n\nI am a bot that sends movies and serials.🥰
 
 Whatever serial and movie 🍿 you want, just ask me and I will send it to you..
 
 If you have any doubts, please contact the admin. 👉 @Shitijbro to @Shitij_Contact_bot Admin Chat bot👈 
-❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Anujith1238">Anujith</a></blockquote></b>"""
+❤️👆\n\n<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Shitijbro">Shitijbro</a></blockquote></b>"""
     
     HELP_TXT = """» ᴡʜᴇʀᴇ ᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴏᴘᴇɴ ᴛʜᴇ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ?."""
 
